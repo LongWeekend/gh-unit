@@ -11,5 +11,6 @@ Documentation/GHUnit.docset.tgz
 *~.nib
 .gitattributes
 GHUnit.docset
+*.xcuserdatad
 html
 latex
